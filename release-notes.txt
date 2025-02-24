@@ -1,0 +1,1 @@
+Release changes from colabo repo (refs/tags/@colabo-apps/b-colabo-space@1.2.3)
